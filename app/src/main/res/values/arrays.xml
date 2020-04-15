@@ -2,17 +2,25 @@
 
 <resources>
     <integer-array name="intArr">
-        <item>1</item>
-        <item>2</item>
+
         <item>3</item>
         <item>4</item>
+        <item>5</item>
     </integer-array>
 
     <string-array name="strArr">
         <item>str1</item>
         <item>str2</item>
         <item>str3</item>
-        <item>str4</item>
+
+    </string-array>
+    <string-array name="countries">
+        <item>Belgium</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Germany</item>
+        <item>Spain</item>
+
     </string-array>
 
     <array name="commanArr">
